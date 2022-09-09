@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /**
  * main - the last digit
  * @void: empty parameter list for main.
@@ -38,5 +37,5 @@ int main(void)
 	{
 		printf("and is less than 6 and not 0\n");
 	}
-	return (0);
+	return 0;
 }
