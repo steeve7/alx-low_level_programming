@@ -1,7 +1,6 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
-
 
 /**
  * main - Positive or Negative - print sign of random number
@@ -13,15 +12,12 @@
  *
  * Return: 0 for success
  */
-
-
 int main(void)
 {
 	/**
 	 * variable n has been declared
 	 * coding then assigns the random value.
 	 */
-
 	int n;
 
 	srand(time(0));
