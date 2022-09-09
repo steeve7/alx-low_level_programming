@@ -2,7 +2,7 @@
 
 /**
  * main - Writes 00 - 99
- * @void: Empty parameter list for main.
+ * @void: Empty parameter list for main
  *
  * Description: Writes all unique combinations
  * of 2 numbers
