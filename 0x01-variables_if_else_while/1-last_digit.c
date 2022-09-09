@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main - the last digit
+ * main - Entry point
  *
- * Description: prints the value of n status:
+ * Description: print the value of n status:
  * greater than, is zero and is not less than 6.
  *
  * Returns: 0 for success
