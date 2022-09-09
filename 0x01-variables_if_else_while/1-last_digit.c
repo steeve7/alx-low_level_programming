@@ -4,8 +4,8 @@
 /**
  * main - the last digit
  *
- * Description: prints last digit of random number and tells
- * if it's greater than 5, 0 and less than 6 and not 0.
+ * Description: prints the value of n status:
+ * greater than, is zero and is not less than 6.
  *
  * Returns: 0 for success
  */
