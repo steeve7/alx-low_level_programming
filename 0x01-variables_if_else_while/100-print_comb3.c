@@ -2,10 +2,10 @@
 
 /**
  * main - Writes 00 - 99
- * @void: Empty parameters list for main
+ * @void: Empty parameter list for main
  *
- * Description: Write all unique combination
- * of two letters
+ * Description: Writes all unique combination
+ * of 2 numbers
  *
  * Result: 0 for success
  */
