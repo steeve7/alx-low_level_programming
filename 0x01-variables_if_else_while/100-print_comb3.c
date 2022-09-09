@@ -2,12 +2,12 @@
 
 /**
  * main - Writes 00 - 99
- * @void: Empty parameter list for main
+ * @void: Empty parameter list for main.
  *
- * description: Writes all unique combinations
+ * Description: Writes all unique combinations
  * of 2 numbers
  *
- * Result: 0 for success
+ * Return: 0 for success
  */
 
 int main(void)
