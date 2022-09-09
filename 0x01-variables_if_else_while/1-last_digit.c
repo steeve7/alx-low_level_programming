@@ -3,7 +3,6 @@
 #include <time.h>
 /**
  * main - the last digit
- * @void: empty parameter list for main.
  *
  * Description: prints last digit of random number and tells
  * if it's greater than 5, 0 and less than 6 and not 0.
@@ -37,5 +36,5 @@ int main(void)
 	{
 		printf("and is less than 6 and not 0\n");
 	}
-	return 0;
+	return (0);
 }
