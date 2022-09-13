@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - Prints Holberton
+ * main - Prints putchar
  * @void: Empty parameter list for main.
  *
- * Description: Prints Holberton w/out stdio
+ * Description: Prints putchar w/out stdio
  *
  * Return: 0 for success
  */
