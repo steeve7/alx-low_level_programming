@@ -1,11 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * @void: Empty parameter list for main
- *
- * Description: Print _putchar
- *
+ * main - Print putchar
  * Required: 0 for success
  */
 
