@@ -7,7 +7,6 @@
  * @y: exponent
  * Description: calcuates x^y
  * Return: x^y
- *
  **/
 
 int exponent(int x, int y)
