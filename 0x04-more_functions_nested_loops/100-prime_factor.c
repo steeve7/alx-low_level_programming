@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 
-/***
+/**
  * main - find prime number
  *
  * Description: find largest prime number of 612852475143
