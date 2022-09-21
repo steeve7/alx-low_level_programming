@@ -1,0 +1,1 @@
+learning advanced pointer
