@@ -23,6 +23,7 @@ char *_strchr(char *src, char c)
 		{
 			return (&src[i]);
 		}
+
 	}
 
 	if (src[i] == c)
