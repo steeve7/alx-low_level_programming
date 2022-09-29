@@ -7,7 +7,6 @@
  * Description: find x^y using factorial
  * Return: x^y, -1 if y is negative
  **/
-
 int _pow_recursion(int x, int y)
 {
 	if (y < 0)
